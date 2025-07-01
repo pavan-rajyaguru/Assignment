@@ -6,8 +6,8 @@
 
 void main()
 {
-    char str1[] = "Mitesh";
-    char str2[] = " Rathod";
+    char str1[] = "Pavan";
+    char str2[] = "rajyaguru";
 
     strcat(str1, str2);
 
